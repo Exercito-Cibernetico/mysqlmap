@@ -22,8 +22,9 @@ title: MySQLMap
 email: ricardo.de.andrade@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Graphic User Interface (GUI) for sqlmap
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: exercito-cibernetico.github.io
+baseurl: "/mysqlmap/" # the subpath of your site, e.g. /blog
+url: "https://exercito-cibernetico.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ExercitoCyber
 github_username:  Exercito-Cibernetico
 
